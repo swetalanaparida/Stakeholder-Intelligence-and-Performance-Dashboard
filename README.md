@@ -15,7 +15,7 @@ A Tableau dashboard built to analyze stakeholder performance, insurance policy p
 - 👤 Role-based access planned for future versions
 
 **🗂️ Dataset**
-- Format: Finance record.xlsx
+- Format: .xlsx
 - Fields include: City, Insurer, Stakeholder, Premium Type, Profitability, Cost Ratio, Assets Under Management, Shareholding Pattern, Date, Gender, Age
 - Note: Raw data is anonymized and fictional for project purposes.
 
